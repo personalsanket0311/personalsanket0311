@@ -15,10 +15,10 @@
 
 #### 📫 Connect with me
 <p>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sanketkanade/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" />
   </a>
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/personalsanket0311">
     <img src="https://img.shields.io/badge/GitHub-black?logo=github" />
   </a>
 </p>
